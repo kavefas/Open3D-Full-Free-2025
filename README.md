@@ -37,7 +37,8 @@ Overall, Open3D stands out as a comprehensive resource for anyone looking to wor
 
 ## Usage Examples 📊
 
-![image](https://github.com/user-attachments/assets/000accc8-1539-4215-be45-cb6bd97d7aea)
+![image](https://github.com/user-attachments/assets/d9935472-48a0-4fc5-9e36-f4fab2095da4)
+
 
 
 # Documentation 📚
